@@ -1,11 +1,11 @@
 # Site settings
 author: Ryan McCahon
-title: 
+title: The Next Step
 header-img: img/home-bg.png
 email: mccahonr@yahoo.com
 copyright_name: Ryan McCahon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey through coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mccahonr
